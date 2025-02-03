@@ -8,3 +8,8 @@ Repository for the CoDEx 2025 workshop "How to Choose Your LLM"
 - Link to sample_input.txt
 
 **Exercise m**
+
+
+## Links to Google Colab Notebooks
+**Task n**
+**Task m**
