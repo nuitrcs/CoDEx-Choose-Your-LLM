@@ -21,7 +21,7 @@ If you're stuck during the hands-on exercises, we have a [document with some sen
 - [Model to play around with named entity recognition](https://huggingface.co/dslim/bert-base-NER).<br>
 - [Model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis).
 
-**Navigating Hugging Face - URLs**
+**URLS to navigate Hugging Face**
 
 - [Landing page](https://huggingface.co/​).<br>
 - [Tasks page](https://huggingface.co/tasks).<br>
