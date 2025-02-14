@@ -1,1 +1,57 @@
+EXERCISES 2 AND 5 -- DEMO SENTENCES:
 
+For Named Entity Recognition:
+
+Example provided in the slides: Chimpanzees, gorillas, and orangutans have been living for hundreds of thousands of years in the forest, living fantastic lives.​
+
+Other examples:
+- Albert Einstein developed the theory of relativity while working at the Swiss Patent Office in Bern.
+- Google and OpenAI are leading the race in artificial intelligence research.
+- The Higgs boson was discovered at CERN, revolutionizing particle physics.
+- Tesla was a brilliant inventor, but Tesla’s stock price soared due to earnings reports.
+
+For sentiment analysis:
+
+Examples provided in the slides:
+- Spent the day sharing stories with my grandparents :-)​
+- Ran into an old friend today. We used to be so close; I miss that.​
+- I’m worried about the rising rent. What if we can’t afford it anymore?​
+- Just got back from the street market—so much vibrant energy.​
+- I’m scared we are losing the sense of community we once had.​
+- Another historic building gone. Heartbreaking.​
+- I love how we all come together for our Fall celebrations!​
+- They’re tearing down the park next month. Where will our kids play?​
+
+Other examples:
+- I love the new research paper on quantum computing! The results are groundbreaking.
+- I hate how the media misrepresents AI. It's frustrating!
+- The experiment failed, but the insights we gained are invaluable.
+- The conference was… interesting. I learned a lot, but the keynote speaker was underwhelming.
+
+
+EXERCISE 4 -- MODELS WITH INFERENCE API WIDGETS IN HUGGING FACE:
+
+Model to analyze sentiment of financial texts: https://huggingface.co/ProsusAI/finbert
+- Apple Inc. reported record-breaking revenue growth in the last quarter, surpassing analyst expectations.
+- Tesla’s stock price plummeted 12% after the company failed to meet its earnings forecast.
+- After years of decline, this struggling company finally posted a profit, albeit a small one.
+- Inflation cooled to 3.5%, but economists argue that this is still far from the Fed’s target.
+
+Mpdel to detect personal information in text: https://huggingface.co/iiiorg/piiranha-v1-detect-personal-information
+- My name is Camilo Pérez and I was born on April 3rd, 1989.
+- My Social Security Number (SSN) is 987-65-4321.
+- Her password was something like catlover123—too easy to guess!
+- They sent the refund to my Chase account ending in 5678.
+
+Model to  measure sentence similarity: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+- Source sentence: Quantum entanglement links two particles so that measuring one instantly affects the other, no matter the distance.
+  - Comparison sentences: 
+    - Quantum entanglement creates an instant connection between two particles, regardless of distance.
+    - Quantum computing relies on superposition to process multiple states simultaneously.
+- Source sentence: She quickly grabbed her coat and rushed out into the cold evening.
+  - Comparison sentences:
+    - She snatched her jacket and hurried into the chilly night.
+    - In a hurry, she put on her coat and stepped into the nocturnal freezing air.
+
+Model for summarization: https://huggingface.co/facebook/bart-large-cnn
+- HPC is a technology that uses clusters of powerful processors that work in parallel to process massive, multidimensional data sets and solve complex problems at extremely high speeds. HPC solves some of today's most complex computing problems in real-time. HPC systems typically run at speeds more than one million times faster than the fastest commodity desktop, laptop or server systems. Supercomputers, purpose-built computers that embody millions of processors or processor cores, have been vital in high-performance computing for decades. Unlike mainframes, supercomputers are much faster and can run billions of floating-point operations in one second. Supercomputers are still with us; the fastest supercomputer is the US-based Frontier, with a processing speed of 1.206 exaflops, or quintillion floating point operations per second (flops).1 But today, more organizations are running HPC services on clusters of high-speed computer servers hosted on premises or in the cloud. HPC workloads uncover new insights that advance human knowledge and create significant competitive advantages. For example, HPC sequences DNA and automates stock trading. It runs artificial intelligence (AI) algorithms and simulations—like those enabling self-driving automobiles—that analyze terabytes of data streaming from IoT sensors, radar and GPS systems in real-time to make split-second decisions. (https://www.ibm.com/think/topics/hpc)
