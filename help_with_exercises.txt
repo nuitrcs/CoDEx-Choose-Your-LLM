@@ -37,13 +37,13 @@ Model to analyze sentiment of financial texts: https://huggingface.co/ProsusAI/f
 - After years of decline, this struggling company finally posted a profit, albeit a small one.
 - Inflation cooled to 3.5%, but economists argue that this is still far from the Fed’s target.
 
-Mpdel to detect personal information in text: https://huggingface.co/iiiorg/piiranha-v1-detect-personal-information
+Model to detect personal information in text: https://huggingface.co/iiiorg/piiranha-v1-detect-personal-information
 - My name is Camilo Pérez and I was born on April 3rd, 1989.
 - My Social Security Number (SSN) is 987-65-4321.
 - Her password was something like catlover123—too easy to guess!
 - They sent the refund to my Chase account ending in 5678.
 
-Model to  measure sentence similarity: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+Model to measure sentence similarity: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 - Source sentence: Quantum entanglement links two particles so that measuring one instantly affects the other, no matter the distance.
   - Comparison sentences: 
     - Quantum entanglement creates an instant connection between two particles, regardless of distance.
