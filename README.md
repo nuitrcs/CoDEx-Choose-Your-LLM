@@ -1,5 +1,5 @@
 # Overview
-Repository for the workshop "Why and How to Use Large Language Models in Your Research" taught by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/) as part of [CoDEx 2025](https://codex.northwestern.edu/).
+Repository for the workshop "Why and How to Use Large Language Models in Your Research" taught by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
 ⚠️ Important privacy and security information: [Northwestern Guidance on the Use of Generative AI](https://www.it.northwestern.edu/about/policies/guidance-on-the-use-of-generative-ai.html).
 
