@@ -23,7 +23,7 @@ If you're stuck during the hands-on exercises, we have a [document with some sen
 
 **URLS to navigate Hugging Face**
 
-- [Landing page](https://huggingface.co/​).<br>
+- [Landing page](https://huggingface.co/).<br>
 - [Tasks page](https://huggingface.co/tasks).<br>
 - [Models page](https://huggingface.co/models).<br>
 - [Example model card](https://huggingface.co/deepseek-ai/DeepSeek-R1).
