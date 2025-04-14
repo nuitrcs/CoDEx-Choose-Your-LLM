@@ -18,8 +18,8 @@ If you're stuck during the hands-on exercises, we have a [document with some sen
 
 **URLS for exercise 2**
 
-- [Model to play around with named entity recognition](https://huggingface.co/dslim/bert-base-NER).<br>
-- [Model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis).
+- [Model to play around with named entity recognition](https://huggingface.co/dslim/bert-base-NER) ([Google Colab option](https://colab.research.google.com/github/nuitrcs/CoDEx-Choose-Your-LLM/blob/main/ner.ipynb)).<br>
+- [Model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis) ([Google Colab option](https://colab.research.google.com/github/nuitrcs/CoDEx-Choose-Your-LLM/blob/main/sentiment_analysis.ipynb)).
 
 **URLS to navigate Hugging Face**
 
@@ -30,7 +30,7 @@ If you're stuck during the hands-on exercises, we have a [document with some sen
 
 **URLS for exercise 5**
 
-- [Encoder-only model to play around with named entity recognition](https://huggingface.co/dslim/bert-base-NER).<br>
-- [Encoder-only model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis).<br>
+- [Encoder-only model to play around with named entity recognition](https://huggingface.co/dslim/bert-base-NER) ([Google Colab option](https://colab.research.google.com/github/nuitrcs/CoDEx-Choose-Your-LLM/blob/main/ner.ipynb)).<br>
+- [Encoder-only model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis) ([Google Colab option](https://colab.research.google.com/github/nuitrcs/CoDEx-Choose-Your-LLM/blob/main/sentiment_analysis.ipynb)).<br>
 - [ChatGPT (decoder only)](https://chatgpt.com/).<br>
 - [HuggingChat (decoder only models)](https://huggingface.co/chat/).
