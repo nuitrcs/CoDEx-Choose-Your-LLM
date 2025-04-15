@@ -34,3 +34,8 @@ If you're stuck during the hands-on exercises, we have a [document with some sen
 - [Encoder-only model to play around with sentiment analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis) ([Google Colab option](https://colab.research.google.com/github/nuitrcs/CoDEx-Choose-Your-LLM/blob/main/sentiment_analysis.ipynb)).<br>
 - [ChatGPT (decoder only)](https://chatgpt.com/).<br>
 - [HuggingChat (decoder only models)](https://huggingface.co/chat/).
+
+
+**Feedback Form**
+
+- Please fill out the [Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=YdN2fXeCCEekd2ToNmzRvLyGHvv_LeNJmg-cYyReiKxUOTRFRkpDQkdMRTlUS0RERFFSV0RYSFIzQS4u). We really appreciate your input 🙏🏽
